@@ -2,6 +2,8 @@
 
 *Tutorial Presentation at PyCon'2015.  April 9, 2015.  Montreal.*
 
+*David Beazley (@dabeaz), http://www.dabeaz.com*
+
 This tutorial assumes the use of Python 3.4 or newer.  Certain examples
 in sections 8 and 9 require the use of Python 3.5. 
 
