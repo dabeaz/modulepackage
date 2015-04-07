@@ -5,7 +5,7 @@
 This tutorial assumes the use of Python 3.4 or newer.  Certain examples
 in sections 8 and 9 require the use of Python 3.5. 
 
-Course Notes are available in the file `ModulePackage.pdf`
+The official website for this tutorial is http://www.dabeaz.com/modulepackage/index.html
 
 ## Part 1 - Basic Knowledge
 
